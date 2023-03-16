@@ -1,0 +1,15 @@
+﻿{
+    "organization": "Samsung",
+    "data": {
+        "founded": 1938,
+        "founder": "Lee Byung-chul",
+        "revenue": {
+            "2016": "US$201.6 billion",
+            "2017": "US$192.1 billion",
+            "2018": "US$208.5 billion"
+        },
+        "employees": 309630
+    },
+    "headquarters": [ "Seocho District", "Seoul", "South Korea" ],
+    "PMApartner": false
+}
